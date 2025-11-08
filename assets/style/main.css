@@ -1282,4 +1282,9 @@ footer {
     .exhibition-section {
         padding: 50px 10px;
     }
+
+    .footer-address {
+        max-width: 100%;
+        padding: 0 20px;
+    }
 }
